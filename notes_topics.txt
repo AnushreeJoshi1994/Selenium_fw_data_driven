@@ -1,0 +1,17 @@
+Topics to make notes on 
+1. xpath
+2. page forward,backward and refresh
+3. find web element enabled or disabled
+4. Wait types
+5. Calender
+6. javascript executor - opening link (.get() function), finding element(by id),finding height and width of element, scrolling, clicking on element - using 
+   javascript excecutor
+7. window handles and IFrames
+8. Handling Javascript popup
+9. Action class methods - mousehover, drag and drop, sliders, keypress events
+10. TestNG annotations - @aftersuite,@beforesuite, @beforeclass, @afterclass,@beforetest,@aftertest,@beforemethod,@aftermethod,@test
+11. TestNG annotations - priority, group, dependant, disable, preserve order , parameters and parallel - (section 27-29), Dataprovider
+
+
+programs: Iframes - 118, action class - keypress n keyrelease/ keyUp n keydown events - 115,117, asserts n softasserts -141, grouping - 145
+ 
