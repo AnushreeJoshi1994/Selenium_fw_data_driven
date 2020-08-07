@@ -1,2 +1,7 @@
-<html>
-</html>
+This the project to automate an online education website using Data Driven Framework that takes inputs from excel and stores the results back into excel sheet. It includes test cases like :
+    1. Testing login to application with valid and invalid data.
+    2. Testing by filtering courses to search. 
+    3. Verifying contents of dropdown displayed.
+    4. Verifying course details displayed.
+    5. Testing whether Promotion video button is enabled.
+
